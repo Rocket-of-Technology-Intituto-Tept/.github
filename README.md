@@ -15,7 +15,15 @@ psiquiatras e assistes sociais.
 * [React-Icons](https://react-icons.github.io/react-icons/)
 
 ### Back (NodeJS):
-
+* [Mongoose](https://mongoosejs.com/)
+* [Express](https://expressjs.com/)
+* [Body-Parser](https://www.npmjs.com/package/body-parser)
+* [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+* [Multer](https://www.npmjs.com/package/multer)
+* [DotENV](https://www.npmjs.com/package/dotenv)
+* [JsonWebToken](https://jwt.io/)
+* [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
+* [Nodemailer](https://www.npmjs.com/package/nodemailer)
 
 ## Equipe Desenvolvedora: Rocket of Technology(ROT)
 
